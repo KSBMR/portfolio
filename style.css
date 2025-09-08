@@ -185,9 +185,8 @@ nav .right span{
 
 .skills h1{
     font-size: 36px;
-    display: grid;
-    justify-content: center;
-    
+    display:flex;
+    justify-content: center;   
     margin-bottom: 16px;
     text-decoration-line: underline;
     text-decoration-color: transparent;
@@ -527,6 +526,7 @@ footer {
         margin-right: 0;
     }
 }
+
 
 
 
