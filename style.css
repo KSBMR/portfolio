@@ -180,16 +180,17 @@ nav .right span{
     background-color: rgba(243, 174, 125, 0.301);
     border-radius: 6px;
     box-shadow: -5px 13px 35px 4px rgba(79,76,76,0.5);
+    
+    
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
 }
 
 
 .skills h1{
     font-size: 36px;
-/*     display: grid;
-    justify-content: center; */
-
     display: grid;
-    grid-template-columns: auto auto auto auto auto;
+    justify-content: center;
     
     margin-bottom: 16px;
     text-decoration-line: underline;
@@ -530,5 +531,6 @@ footer {
         margin-right: 0;
     }
 }
+
 
 
