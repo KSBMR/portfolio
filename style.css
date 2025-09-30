@@ -177,7 +177,7 @@ nav .right span{
     margin-bottom: 90px;
     padding: 0 90px;
     padding-top: 30px;
-    padding-bottom: 10px;
+    padding-bottom: 1px;
     background-color: rgba(243, 174, 125, 0.301);
     border-radius: 6px;
     box-shadow: -5px 13px 35px 4px rgba(79,76,76,0.5);
@@ -530,6 +530,7 @@ footer {
         margin-right: 0;
     }
 }
+
 
 
 
